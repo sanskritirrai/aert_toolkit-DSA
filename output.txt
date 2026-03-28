@@ -1,0 +1,47 @@
+ALGORITHMIC EFFICIENCY & RECURSION TOOLKIT (AERT) OUTPUTS
+
+---- Factorial Test
+
+Factorial of 0 is 1
+Factorial of 1 is 1
+Factorial of 5 is 120
+Factorial of 10 is 3628800
+
+---- Fibonacci Test
+
+n= 1
+Navie Fibonacci of 1 is 1 with 1 calls
+Memoized Fibonacci of 1 is 1 with 1 calls
+
+n= 2
+Navie Fibonacci of 2 is 1 with 3 calls
+Memoized Fibonacci of 2 is 1 with 3 calls
+
+n= 3
+Navie Fibonacci of 3 is 2 with 5 calls
+Memoized Fibonacci of 3 is 2 with 5 calls
+
+n= 4
+Navie Fibonacci of 4 is 3 with 9 calls
+Memoized Fibonacci of 4 is 3 with 7 calls
+
+n= 5
+Navie Fibonacci of 5 is 5 with 15 calls
+Memoized Fibonacci of 5 is 5 with 9 calls
+
+---- Tower of Hanoi (n = 3)
+
+Move disk 1 from A to C
+Move disk 2 from B to C
+Move disk 1 from B to A
+Move disk 3 from A to C
+Move disk 1 from C to B
+Move disk 2 from A to B
+Move disk 1 from A to C
+
+---- Recursive Binary Search 
+Search 1 -> 0
+Search 5 -> 4
+Search 10 -> 9
+Search 11 -> -1
+Empty list search -1
